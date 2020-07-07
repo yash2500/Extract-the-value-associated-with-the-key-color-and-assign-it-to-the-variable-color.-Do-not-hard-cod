@@ -1,0 +1,1 @@
+# Extract-the-value-associated-with-the-key-color-and-assign-it-to-the-variable-color.-Do-not-hard-cod
